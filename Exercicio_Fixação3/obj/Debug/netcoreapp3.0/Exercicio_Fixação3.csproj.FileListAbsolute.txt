@@ -1,0 +1,11 @@
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.exe
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.deps.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.runtimeconfig.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.runtimeconfig.dev.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.dll
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\bin\Debug\netcoreapp3.0\Exercicio_Fixação3.pdb
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\obj\Debug\netcoreapp3.0\Exercicio_Fixação3.csprojAssemblyReference.cache
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\obj\Debug\netcoreapp3.0\Exercicio_Fixação3.AssemblyInfoInputs.cache
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\obj\Debug\netcoreapp3.0\Exercicio_Fixação3.AssemblyInfo.cs
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\obj\Debug\netcoreapp3.0\Exercicio_Fixação3.dll
+C:\Users\Silas1\source\repos\Exercicio_Fixação3\Exercicio_Fixação3\obj\Debug\netcoreapp3.0\Exercicio_Fixação3.pdb
